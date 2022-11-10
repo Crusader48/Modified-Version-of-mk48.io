@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Modified mk48.io
+    
+  </title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <h2>About mk54.io</h2>
+  <h3>Description</h3>
+  <p>mk54.io is an online multiplayer ship naval combat game directly based on mk48.io, a game created by Softbear Studios. The objective is to level up your ship by collecting crates and sinking other ships. There are 75 ships and 15 weapon types to chose from, spread over 13 progressively more powerful levels. <br><br>
+  To learn more about the game, please visit our Help page. You may also view the Chanelog page to see what changed recently. <br>
+  You can also join the Discord server!</p>
+
+<h3>Technical Details</h3>
+<p>The game's source code and assets are open source. 
+  <ul>
+    <li>The client and server are written in Rust. </li>
+      <li>The client GUI is written in the Svelte JavaScript framework.</li>
+<li>The textures were modeled and rendered in Blender, except for the sand, grass, and snow.</li>
+<li>The sounds are from these sources.</li>
+<li>IP Geolocation by DB-IP.</li>
+</ul>
+</p>
+<h3>Contact Us</h3>
+<p>If you have any feedback to share, business inquiries, or any other concern, please contact us by email at contact@mk54.io, or for information about mk48.io email contact@mk48.io.
+</p>
+  <script src="script.js"></script>
+</body>
+</html>
